@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nome": "Damien Voss",
+        "time": "bem",
+        "foto": "assets/img/perso-damien.jpg",
+        "vidaAtual": 91,
+        "vidaMax": 91,
+        "determinacaoAtual": 82,
+        "determinacaoMax": 82
+    },
+    {
+        "id": 2,
+        "nome": "Twilight",
+        "time": "bem",
+        "foto": "assets/img/perso-twilight.jpg",
+        "vidaAtual": 62,
+        "vidaMax": 62,
+        "determinacaoAtual": 96,
+        "determinacaoMax": 96
+    },
+    {
+        "id": 3,
+        "nome": "Kael Figueredo",
+        "time":"bem",
+        "foto":"assets/img/perso-kael.jpeg",
+        "vidaAtual": 120,
+        "vidaMax": 120,
+        "determinacaoAtual": 68,
+        "determinacaoMax":68
+    },
+    {
+        "id": 4,
+        "nome": "Thomas S. Son",
+        "time":"bem",
+        "foto":"assets/img/perso-thomas.jpg",
+        "vidaAtual": 62,
+        "vidaMax": 62,
+        "determinacaoAtual": 109,
+        "determinacaoMax": 109
+    },
+    {
+        "id": 5,
+        "nome": "Jonathan Darrel",
+        "time": "mal",
+        "foto": "assets/img/perso-jonathan.jpg",
+        "vidaAtual": 49,
+        "vidaMax": 49,
+        "determinacaoAtual": 109,
+        "determinacaoMax": 109
+    },
+    {
+        "id": 6,
+        "nome": "Augusto Aguiar",
+        "time": "mal",
+        "foto": "assets/img/perso-augusto.jpg",
+        "vidaAtual": 120,
+        "vidaMax": 120,
+        "determinacaoAtual": 81,
+        "determinacaoMax": 81
+    },
+    {
+        "id": 7,
+        "nome": "Levi Alencar",
+        "time":"mal",
+        "foto":"assets/img/perso-donthave.png",
+        "vidaAtual": 62,
+        "vidaMax": 62,
+        "determinacaoAtual": 122,
+        "determinacaoMax": 122
+    },
+    {
+        "id": 8,
+        "nome": "Dalmo Magno",
+        "time": "mal",
+        "foto": "assets/img/perso-donthave.png",
+        "vidaAtual": 91,
+        "vidaMax": 91,
+        "determinacaoAtual": 95,
+        "determinacaoMax": 95
+    }
+]
